@@ -23,3 +23,6 @@ I'm looking to collaborate on anything that piques my interest, though I hope to
 Right now, I'm in the process of learning [Scala](https://www.scala-lang.org/), out of pure curiosity.
 
 [Here](https://plutone11011.github.io/) is a personal website with my contacts and where I sometimes write about new topics that interest me.
+
+
+[![Plutone11011's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plutone11011)](https://github.com/anuraghazra/github-readme-stats)
