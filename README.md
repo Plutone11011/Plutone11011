@@ -19,7 +19,7 @@ I'm Lorenzo, a junior SDE from Bologna, where I obtained my bachelor in CS.
 
 Right now, I'm a SDE intern at Amazon, and an AI master student.
 
-I'm looking to collaborate on anything that piques my interest, though I hope to work in NLP soon.
+I'm looking to collaborate on anything that piques my interest.
 Right now, I'm in the process of learning [Scala](https://www.scala-lang.org/), out of pure curiosity.
 
 [Here](https://plutone11011.github.io/) is a personal website with my contacts and where I sometimes write about new topics that interest me.
