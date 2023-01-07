@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Lorenzo, a junior SDE from Bologna, where I obtained my bachelor in CS.
-
-Right now, I am an AI master student.
-
-I'm looking to collaborate on anything that picks my interest.
-
-[Here](https://plutone11011.github.io/) is a personal website with my contacts and where I sometimes write about new topics that interest me.
 
 
+Currently a M.Sc. student in AI. 
+
+I'm looking to collaborate on any open-source project that picks my interest.
+
+[Here](https://plutone11011.github.io/) is a personal website with my contacts and where I sometimes write about new topics.
+
+![](https://komarev.com/ghpvc/?username=Plutone11011&color=orange)
 [![Plutone11011's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plutone11011)](https://github.com/anuraghazra/github-readme-stats)
