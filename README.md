@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Currently a M.Sc. student in AI. 
+Currently a M.Sc. student in AI. Passionate about NLP and all things ML and software related.
 
 I'm looking to collaborate on any open-source project that picks my interest.
 
