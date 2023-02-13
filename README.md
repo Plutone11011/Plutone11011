@@ -33,3 +33,9 @@ I'm looking to collaborate on any open-source project that picks my interest.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plutone11011&count_private=true&theme=merko&hide=jupyter%20notebook,java)](https://github.com/plutone11011/github-readme-stats)
 
+## Contacts
+<p>
+  <a href="https://www.linkedin.com/in/lorenzo-borelli-71355a19b/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
