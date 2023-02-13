@@ -31,3 +31,5 @@ I'm looking to collaborate on any open-source project that picks my interest.
 
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plutone11011&count_private=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plutone11011&count_private=true&theme=merko&hide=jupyter%20notebook,java)](https://github.com/plutone11011/github-readme-stats)
+
