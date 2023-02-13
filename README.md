@@ -21,7 +21,8 @@ Currently a M.Sc. student in AI. Passionate about NLP and all things ML and soft
 
 I'm looking to collaborate on any open-source project that picks my interest.
 
-[Here](https://plutone11011.github.io/) is a personal website with my contacts and where I sometimes write about new topics.
-
 ![](https://komarev.com/ghpvc/?username=Plutone11011&color=orange)
 
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
