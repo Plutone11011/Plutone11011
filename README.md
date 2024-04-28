@@ -21,6 +21,8 @@ AI Engineer. Passionate about NLP and all things ML and software related.
 
 I'm looking to collaborate on any open-source project that picks my interest.
 
+Currently learning Rust.
+
 ![](https://komarev.com/ghpvc/?username=Plutone11011&color=orange)
 
 ## Technical skills
